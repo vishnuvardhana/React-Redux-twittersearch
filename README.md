@@ -1,6 +1,4 @@
-## demo link available in heroku
-[Demo](https://redux-twitter-search.herokuapp.com/)
-
+## [Demo](https://redux-twitter-search.herokuapp.com/) link available in heroku
 
 ## Getting Started
 
@@ -20,3 +18,5 @@ Start the development server (changes will now update live in browser)
 ```
 
 To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
+
+##[Reference](https://github.com/buckyroberts/React-Redux-Boilerplate)
